@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///C:/Users/cqkj/Desktop/3.23新包/riceProject/main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,6M;AACAA,UAAU,CAACC,iBAAD,CAAV,C","file":"zoostr/chatpage.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './zoostr/chatpage.vue'\ncreatePage(Page)"],"sourceRoot":""}

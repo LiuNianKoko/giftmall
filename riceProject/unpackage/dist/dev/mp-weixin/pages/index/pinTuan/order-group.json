@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "拼团订单",
-  "usingComponents": {
-    "q-s-popup": "/components/QS-popup/QS-popup"
-  }
-}

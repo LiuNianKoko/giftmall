@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "结算",
-  "usingComponents": {
-    "keyboard-pay": "/components/pwdpay",
-    "q-s-popup": "/components/QS-popup/QS-popup"
-  }
-}

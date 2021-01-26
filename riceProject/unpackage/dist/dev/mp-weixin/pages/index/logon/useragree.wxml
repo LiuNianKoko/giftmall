@@ -1,1 +1,0 @@
-<view><view class="agree-main"><view><rich-text nodes="{{agreement}}"></rich-text></view></view></view>

@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "待发货",
-  "usingComponents": {
-    "q-s-popup": "/components/QS-popup/QS-popup",
-    "keyboard-pay": "/components/pwdpay"
-  }
-}

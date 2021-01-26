@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "拼团详情",
-  "usingComponents": {
-    "q-s-popup": "/components/QS-popup/QS-popup"
-  }
-}

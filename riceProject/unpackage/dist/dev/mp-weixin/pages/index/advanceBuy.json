@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "商品详情",
-  "usingComponents": {
-    "segmented-control": "/components/segmented-control",
-    "q-s-popup": "/components/QS-popup/QS-popup"
-  }
-}

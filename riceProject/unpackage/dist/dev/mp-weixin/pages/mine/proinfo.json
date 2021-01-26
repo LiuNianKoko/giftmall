@@ -1,7 +1,0 @@
-{
-  "navigationStyle": "custom",
-  "usingComponents": {
-    "w-picker": "/components/w-picker/w-picker",
-    "mpvue-city-picker": "/components/m-citypicker/mpvueCityPicker"
-  }
-}

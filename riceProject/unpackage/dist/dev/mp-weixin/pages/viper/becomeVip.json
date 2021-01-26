@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "成为会员",
-  "usingComponents": {
-    "q-s-popup": "/components/QS-popup/QS-popup"
-  }
-}

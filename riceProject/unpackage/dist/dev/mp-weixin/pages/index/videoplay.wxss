@@ -1,9 +1,0 @@
-.img {
-  width: 32rpx;
-  height: 61rpx;
-  position: absolute;
-  left: 56rpx;
-  top: 90rpx;
-  z-index: 10000;
-}
-

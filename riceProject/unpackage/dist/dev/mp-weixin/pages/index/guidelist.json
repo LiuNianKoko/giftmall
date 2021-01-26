@@ -1,7 +1,0 @@
-{
-  "navigationStyle": "custom",
-  "enablePullDownRefresh": true,
-  "usingComponents": {
-    "q-s-popup": "/components/QS-popup/QS-popup"
-  }
-}
